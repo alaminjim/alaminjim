@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://i.ibb.co/vxZ2d0T8/banner.gif)
 <h1 align="center">Hi 👋, I'm Al-Amin Islam</h1>
 <h3 align="center">Focused on Learning & Building Real-World Web Solutions</h3>
 <img align="right" width="400" src="https://i.ibb.co/RpsngjVL/cute-boy-with-laptop-vector-illustration-cartoon-character-1142-109244.jpg" />
