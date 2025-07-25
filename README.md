@@ -23,6 +23,7 @@
 <a href="https://twitter.com/md_alamin_jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_alamin_jim" height="30" width="40" /></a>
 <a href="https://fb.com/md.alamin.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.alamin.jim" height="30" width="40" /></a>
 <a href="https://instagram.com/alamin_zig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamin_zig" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jim-alamin-263130377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-alamin-263130377" height="30" width="40" /></a>
 </p>
 
 
