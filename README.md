@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript (ES6+), React, TypeScript,Node.js & Backend**
 
-- 💬 Ask me about **JavaScript (ES6+), React, Node.js, Express, MongoDB (MERN Stack), and Android Development**
+- 💬 Ask me about **JavaScript (ES6+), React**
 
 - 📫 How to reach me **jimalamin7@gmail.com**
 
