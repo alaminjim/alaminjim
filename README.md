@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **jimalamin7@gmail.com**
 
+- 🧑‍💻 My portfolio **https://md-alamin-islam.netlify.app**
+
 - ⚡ Fun fact **Passionate learner and lifelong coder.**
 
 <h3 align="left">Connect with me:</h3>
