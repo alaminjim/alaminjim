@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [GAMEOn_GEAR](https://quiet-belekoy-ad3587.netlify.app)
 
-- 🌱 I’m currently learning **JavaScript (ES6+), React, TypeScript,Node.js & Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **JavaScript (ES6+), React**
 
