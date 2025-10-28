@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminjim&label=Profile%20views&color=0e75b6&style=flat" alt="alaminjim" /> </p>
 
 
-- 🔭 I’m currently working on [GAMEOn_GEAR](https://quiet-belekoy-ad3587.netlify.app)
+- 🔭 I’m currently working on [Ai Finance Tracker](https://ai-finance-saas-d1df6b.netlify.app/overview)
 
 - 🌱 I’m currently learning **Backend**
 
