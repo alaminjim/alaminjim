@@ -73,7 +73,7 @@ const alAmin: Developer = {
     "SQL · Docker · AWS · GitHub Actions",
   ],
   contact:   "jimalamin7@gmail.com",
-  available: true, // ✅ open to opportunities
+  available: true,
 };
 ```
 
