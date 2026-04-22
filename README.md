@@ -73,7 +73,7 @@ const alAmin: Developer = {
     "SQL · Docker · AWS · GitHub Actions",
   ],
   contact:   "jimalamin7@gmail.com",
-  available: true,
+  available: true, 
 };
 ```
 
@@ -85,13 +85,16 @@ const alAmin: Developer = {
 <tr>
 <td>
 
-### 🤖 [AI Finance Tracker](https://ai-finance-saas-d1df6b.netlify.app/overview)
-> A production-grade AI-powered SaaS finance tracker with smart insights, real-time analytics, and a clean modern UI.
+### 🎬 [CineVerse](https://cine-verse-client-rouge.vercel.app) &nbsp;·&nbsp; [GitHub Repo](https://github.com/alaminjim/cineVerse)
+> A production full-stack movie discovery platform — type-safe stack, secure auth, relational DB, and server-side rendering.
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-7C3AED?style=flat-square&logo=auth0&logoColor=white)
 
 </td>
 </tr>
@@ -108,7 +111,6 @@ const alAmin: Developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -116,8 +118,12 @@ const alAmin: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-7C3AED?style=for-the-badge&logo=auth0&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔐 Auth & Security
+![Better Auth](https://img.shields.io/badge/Better_Auth-7C3AED?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -142,7 +148,7 @@ const alAmin: Developer = {
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alaminjim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alaminjim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 
 <br/>
@@ -151,17 +157,7 @@ const alAmin: Developer = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alaminjim&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
